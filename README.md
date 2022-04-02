@@ -7,7 +7,7 @@ family. I live in Rio de Janeiro.</h5>
 
 - 🌱 I’m currently learning **React with Context Api**
 
-- 👨‍💻 All of my projects are available at [elimar-lucena-github-io.vercel.app](https://github.com/ElimarLucena/ElimarLucena.github.io)
+- 👨‍💻 All of my projects are available at [elimar-lucena-github-io.vercel.app](https://elimar-lucena-github-io.vercel.app/)
 
 - 💬 Ask me about **react**
 
