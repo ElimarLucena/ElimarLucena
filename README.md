@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elimar Lucena</h1>
 <h3 align="center">Web development student</h3>
+<h5 align="center">I'm studying as a web developer in Trybe. In my free time I like to read and be with my 
+family. I live in Rio de Janeiro.</h5>
 
 - 🔭 I’m currently working on [FrontEnd-Online-store](frontend-online-store-five.vercel.app)
 
@@ -12,6 +14,8 @@
 - 📫 How to reach me **elimarlucenar@gmail.com**
 
 ![Elimar Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimarLucena&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElimarLucena&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
