@@ -9,7 +9,7 @@ family. I live in Rio de Janeiro.</h5>
 
 - 👨‍💻 All of my projects are available at [elimar-lucena-github-io.vercel.app](https://elimar-lucena-github-io.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **elimarlucenar@gmail.com**
 
