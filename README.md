@@ -17,7 +17,7 @@ family. I live in Rio de Janeiro.</h5>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElimarLucena&layout=compact)
 
-![Snake animation](https://github.com/ElimarLucena/ElimarLucena/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ElimarLucena/ElimarLucena/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![GitHub Snake Light](github-snake.svg#gh-light-mode-only) -->
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
