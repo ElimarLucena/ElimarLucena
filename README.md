@@ -19,6 +19,9 @@ family. I live in Rio de Janeiro.</h5>
 
 ![Snake animation](https://github.com/ElimarLucena/ElimarLucena/blob/output/github-contribution-grid-snake.svg)
 
+<!-- ![GitHub Snake Light](github-snake.svg#gh-light-mode-only) -->
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elimar-lucena-849515145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elimar-lucena-849515145/" height="30" width="40" /></a>
