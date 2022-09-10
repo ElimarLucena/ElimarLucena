@@ -1,6 +1,6 @@
-<div>
-<img align="center" alt="Header" src="image/github1000.png"/>
-</div>
+<p align="center">
+  <img align="center" alt="Header" src="image/github1000.png"/>
+</p>
 <h1 align="center">Hi 👋, I'm Elimar Lucena</h1>
 <h3 align="center">Web development student</h3>
 <h5 align="center">I'm studying as a web developer in Trybe. In my free time I like to read and be with my 
