@@ -1,3 +1,6 @@
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+</div>
 <h1 align="center">Hi 👋, I'm Elimar Lucena</h1>
 <h3 align="center">Web development student</h3>
 <h5 align="center">I'm studying as a web developer in Trybe. In my free time I like to read and be with my 
