@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="image/github.png"/>
+<img align="center" alt="Header" src="image/github1000.png"/>
 </div>
 <h1 align="center">Hi 👋, I'm Elimar Lucena</h1>
 <h3 align="center">Web development student</h3>
