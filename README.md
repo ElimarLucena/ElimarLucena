@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Header" src="image/github1000.png"/>
+  <img align="center" alt="Header" src="image/github.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Elimar Lucena</h1>
 <h3 align="center">Web development student</h3>
