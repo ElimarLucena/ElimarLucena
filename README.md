@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Elimar Lucena</h1>
 <h3 align="center">Web development student</h3>
-<h5 align="center">I'm studying as a web developer in Trybe. In my free time I like to read and be with my 
+<h5 align="center">I'm a software engineer at XP inc. In my free time I like to read and be with my 
 family. I live in Rio de Janeiro.</h5>
 
 - 🔭 I’m currently working on [Frontend-Online-Store](https://frontend-online-store-five.vercel.app/)
