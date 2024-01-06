@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Elimar</h1>
 <h3 align="center">Back-end Development</h3>
-<h5 align="center">I'm a software engineer at XP inc. In my free time I like to read and be with my 
-family. I live in Rio de Janeiro.</h5>
+<h4 align="center">I'm a software engineer at XP inc. In my free time I like to read and be with my 
+family. I live in Rio de Janeiro.</h4>
 
-- 🔭 I’m currently working on [Customer Api]([https://frontend-online-store-five.vercel.app/](https://github.com/ElimarLucena/Customer-API))
+- 🔭 I’m currently working on [Customer-API](https://github.com/ElimarLucena/Customer-API)
 
 - 🌱 I’m currently learning **Safe development with .Net Core**
 
