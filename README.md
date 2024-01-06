@@ -8,11 +8,11 @@ family. I live in Rio de Janeiro.</h5>
 
 - 🔭 I’m currently working on [Frontend-Online-Store](https://frontend-online-store-five.vercel.app/)
 
-- 🌱 I’m currently learning **React with Context Api**
+- 🌱 I’m currently learning **Safe development with .Net Core**
 
 - 👨‍💻 All of my projects are available at [elimar-lucena-github-io.vercel.app](https://elimar-lucena-github-io.vercel.app/)
 
-- 💬 Ask me about **.Net Core, C#, SQL Serve, Security**
+- 💬 Ask me about **.Net Core, C#, SQL Server, Security**
 
 - 📫 How to reach me **elimarlucenar@gmail.com**
 
