@@ -2,7 +2,7 @@
   <img align="center" alt="Header" src="image/githubFinal.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Elimar</h1>
-<h3 align="center">Web development</h3>
+<h3 align="center">Back-end Development</h3>
 <h5 align="center">I'm a software engineer at XP inc. In my free time I like to read and be with my 
 family. I live in Rio de Janeiro.</h5>
 
