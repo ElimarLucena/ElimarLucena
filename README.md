@@ -10,7 +10,7 @@ family. I live in Rio de Janeiro.</h4>
 
 - 🌱 I’m currently learning **Safe development with .Net Core**
 
-- 👨‍💻 All of my projects are available at [elimar-lucena-github-io.vercel.app](https://elimar-lucena-github-io.vercel.app/)
+- 👨‍💻 All of my projects are available at [Github Projects](https://github.com/ElimarLucena?tab=repositories)
 
 - 💬 Ask me about **.Net Core, C#, SQL Server, Security**
 
